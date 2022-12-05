@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cworth-gh/theworths-org/issues"
   },
-  "homepage": "https://github.com/cworth-gh/theworths-org#readme"
+  "homepage": "https://github.com/cworth-gh/theworths-org#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.1.0"
+  }
 }
