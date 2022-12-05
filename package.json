@@ -1,0 +1,19 @@
+{
+  "name": "theworths-org",
+  "version": "0.0.1",
+  "description": "Server infrastructure for theworths.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cworth-gh/theworths-org.git"
+  },
+  "author": "Carl and Richard Worth",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/cworth-gh/theworths-org/issues"
+  },
+  "homepage": "https://github.com/cworth-gh/theworths-org#readme"
+}
